@@ -18,8 +18,6 @@
 
 下載OrderAppV300.jar
 
-![image](./images/20250209123255.jpg)
-
 ![image](./images/20250209125229.jpg)
 
 windows環境直接雙擊OrderAppV300.jar，即可執行
