@@ -28,8 +28,6 @@ java -jar OrderAppV300.jar
 ```
 ![image](./images/Xnip2025-02-10_10-32-27.jpg)
 
-原始碼在src資料夾，僅供參考
-
 # 登入畫面
 
 ![image](./images/Xnip2025-02-10_10-51-51.jpg)
@@ -51,6 +49,8 @@ java -jar OrderAppV300.jar
 [Java Swing jdbc搭配MySQL 建立簡易商城系統](https://github.com/IvesShe/JavaSwingMySQLShoppingMall)
 
 # Model
+
+<h3>原始碼在src資料夾，僅供參考</h3>
 
 ## Order
 
