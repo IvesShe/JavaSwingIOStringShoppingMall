@@ -5,7 +5,6 @@
 - Swing
 - eclipse windowbuilder
 - dao pattern
-- jdbc
 
 # 使用方式
 
