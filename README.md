@@ -12,13 +12,13 @@
 ## 前置條件
 
 - 安裝jdk11
-[jdk-11.0.25_windows-x64_bin](https://www.oracle.com/tw/java/technologies/javase/jdk11-archive-downloads.html)
+[jdk-11.0.25_windows-x64_bin](https://github.com/IvesShe/JavaSwingIOStringShoppingMall/blob/main/OrderAppV300.jar)
 
 ## 下載本專案對應檔案
 
 下載OrderAppV300.jar
 
-[OrderAppV400.jar](https://github.com/IvesShe/JavaSwingIOStreamShoppingMall/blob/main/OrderAppV300.jar)
+[OrderAppV300.jar](https://github.com/IvesShe/JavaSwingIOStringShoppingMall/blob/main/OrderAppV300.jar)
 
 ![image](./images/20250209123255.jpg)
 
