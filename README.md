@@ -18,8 +18,6 @@
 
 下載OrderAppV300.jar
 
-[OrderAppV300.jar](https://github.com/IvesShe/JavaSwingIOStringShoppingMall/blob/main/OrderAppV300.jar)
-
 ![image](./images/20250209123255.jpg)
 
 ![image](./images/20250209125229.jpg)
